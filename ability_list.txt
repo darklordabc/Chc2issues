@@ -1,9 +1,9 @@
 "disabled_abilities"    
 {
 	"naga_siren_mirror_image"				"1"
-	"abyssal_underlord_dark_rift"			"1"
+	"abyssal_underlord_dark_rift"				"1"
 	"dawnbreaker_luminosity"				"1"
-	"disruptor_glimpse"						"1"
+	"disruptor_glimpse"					"1"
 	"enchantress_bunny_hop"					"1"
 	"furion_teleportation"					"1"
 	"life_stealer_infest"					"1"
@@ -11,11 +11,11 @@
 	"meepo_divided_we_stand"				"1"
 	"morphling_replicate"					"1"
 	"nevermore_shadowraze2"					"1"
-	"phoenix_supernova"						"1"
-	"spectre_haunt"							"1"
-	"storm_spirit_ball_lightning"			"1"
-	"undying_tombstone"						"1"
-	"wisp_relocate"							"1"
+	"phoenix_supernova"					"1"
+	"spectre_haunt"						"1"
+	"storm_spirit_ball_lightning"				"1
+	"undying_tombstone"					"1"
+	"wisp_relocate"						"1"
 	"brewmaster_primal_split"				"1"
 }
 
